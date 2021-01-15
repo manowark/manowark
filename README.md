@@ -1,13 +1,13 @@
-[![manowark's github stats](https://github-readme-stats.vercel.app/api?username=manowark&count_private=1)](https://github.com/manowark)
-
 <h1 align="center">Hi 👋, I'm Michael</h1>
+
+[![manowark's github stats](https://github-readme-stats.vercel.app/api?username=manowark&count_private=1)](https://github.com/manowark)
 
 - 🔭 I’m currently working on [OroInc projects](https://oroinc.com)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/mykhailo-sulyma-0265ab60" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mykhailo Sulyma" height="30" width="40"/></a>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Michael Sulyma" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
