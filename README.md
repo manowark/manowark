@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mykhailo</h1>
 
-- 🔭 I’m currently working on [OroInc projects](https://oroinc.com)
+<!-- - 🔭 I’m currently working on [OroInc projects](https://oroinc.com) -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
