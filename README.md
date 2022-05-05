@@ -38,7 +38,7 @@
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
 </p>
 
-[![manowark's languages](https://github-readme-stats.vercel.app/api/top-langs?username=manowark&show_icons=true&layout=compact)](https://github.com/manowark)
+[![manowark's languages](https://github-readme-stats.vercel.app/api/top-langs?username=manowark&count_private=true&show_icons=true&layout=compact)](https://github.com/manowark)
 
 [![manowark's github stats](https://github-readme-stats.vercel.app/api?username=manowark&count_private=true&show_icons=true)](https://github.com/manowark)
 
